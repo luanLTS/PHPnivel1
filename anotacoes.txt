@@ -1,0 +1,8 @@
+Apache recebe a requisição
+Manda pro local correto
+
+chama o PHP para interpretar os codigos PHP
+O PHP manda o resultado para o Apache
+O Apache junta com o que não é interpretável e manda para o usuário
+
+
